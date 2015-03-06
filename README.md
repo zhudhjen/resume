@@ -2,7 +2,7 @@
 
 Jonathan Zhu's resume in Markdown.
 
-Online Version: http://resume.pitayazhu.me (not yet available)
+Online Version: [http://pitayazhu.me/resume](http://pitayazhu.me/resume)
 
 Thanks for Zeno Zeng for [his resume template](https://github.com/zenozeng/resume).
 
