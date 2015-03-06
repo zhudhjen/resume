@@ -1,10 +1,10 @@
 # resume
 
-Zeno Zeng's resume in Markdown.
+Jonathan Zhu's resume in Markdown.
 
-Online Version: http://resume.zenozeng.com
+Online Version: [http://resume.pitayazhu.me](http://resume.pitayazhu.me)
 
-This is based on [xuxiaodong's resume theme](https://github.com/xuxiaodong/resume).
+This is based on [zenozeng's resume theme](https://github.com/zenozeng/resume).
 
 ## build
 
