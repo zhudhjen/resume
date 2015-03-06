@@ -11,6 +11,8 @@
 
 ### 技术
 
+1. HTML __熟悉__
+
 1. JavaScript __熟悉__
 
 1. CSS/Less __熟悉__
