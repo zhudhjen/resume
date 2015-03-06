@@ -179,18 +179,10 @@ ol li strong, ol li em {
     padding-left: 4px;
     padding-right: 4px;
     margin-left: 4px;
-    box-sizing: border-box;
-}
-
-ol li strong {
-    border: 1px solid #3498db;
-    color: #2980b9;
-}
-
-ol li em {
     font-style: normal;
-    border: 1px solid #ccc;
-    color: #888;
+    font-weight: normal;
+    border: 1px solid #bbb;
+    box-sizing: border-box;
 }
 
 dl {
