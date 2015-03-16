@@ -428,7 +428,10 @@ dl em {
 }
 
 @media print {
-    .container {border-top:none;}
+    .container {
+        border-top:none;
+        padding-bottom: 0;
+    }
 
     .not-printed {
         display: none;
